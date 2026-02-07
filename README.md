@@ -1,3 +1,4 @@
+##  Projeto entregue no desafio DIO — IA Generativa
 
 MiniGuia criado com NotebookLM e IA Generativa para estudo financeiro introdutório
 
