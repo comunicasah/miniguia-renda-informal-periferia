@@ -23,7 +23,6 @@ O resultado final é um **miniguia estruturado**, acompanhado de glossário e pr
 - Aplicar noções básicas de precificação e organização financeira  
 - Investigar ferramentas digitais e IA como apoio à gestão de pequenos negócios  
 
----
 
 ## 📚 MiniGuia — Resumo Estruturado
 
