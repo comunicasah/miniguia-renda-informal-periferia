@@ -1,21 +1,21 @@
-# miniguia-renda-informal-periferia
+
 MiniGuia criado com NotebookLM e IA Generativa para estudo financeiro introdutório
 
 # MiniGuia de Estudo — Geração de Renda Informal na Periferia
 
-## 📌 Desafio: NotebookLM — IA Generativa aplicada ao estudo financeiro
+##  Desafio: NotebookLM — IA Generativa aplicada ao estudo financeiro
 
 Este repositório contém a entrega do desafio proposto no nível 8 (XP 4570/4712), que consiste na criação de um caderno temático no **NotebookLM**, reunindo fontes abertas sobre um tema financeiro introdutório, com foco em aprendizagem ativa por meio de IA Generativa.
 
 O resultado final é um **miniguia estruturado**, acompanhado de glossário e prompts reutilizáveis para revisões futuras.
 
 
-## 🎯 Tema do Caderno
+##  Tema do Caderno
 
 **Geração de renda informal para mães solo e mulheres empreendedoras periféricas**
 
 
-## ✅ Objetivos de Estudo
+##  Objetivos de Estudo
 
 - Compreender a realidade do empreendedorismo informal no contexto periférico  
 - Identificar caminhos acessíveis de geração de renda para mães solo  
@@ -24,7 +24,7 @@ O resultado final é um **miniguia estruturado**, acompanhado de glossário e pr
 - Investigar ferramentas digitais e IA como apoio à gestão de pequenos negócios  
 
 
-## 📚 MiniGuia — Resumo Estruturado
+##  MiniGuia — Resumo Estruturado
 
 ### 1. Contexto Social
 
@@ -82,7 +82,7 @@ Ferramentas acessíveis incluem:
 Além disso, a **IA Generativa** pode apoiar na criação de conteúdos, planejamento financeiro e aprendizado rápido, desde que usada com pensamento crítico.
 
 
-## 📖 Glossário Financeiro
+##  Glossário Financeiro
 
 - **MEI**: Microempreendedor Individual, modelo simplificado de formalização  
 - **DAS**: imposto mensal obrigatório pago pelo MEI  
@@ -93,7 +93,7 @@ Além disso, a **IA Generativa** pode apoiar na criação de conteúdos, planeja
 - **Fluxo de Caixa**: controle de entradas e saídas financeiras do negócio  
 
 
-## 💡 Prompts Reutilizáveis (para revisão)
+## Prompts Reutilizáveis (para revisão)
 
 1. Resuma os principais desafios financeiros enfrentados por mães solo na periferia.  
 2. Explique como o MEI contribui para proteção social e acesso a crédito.  
@@ -103,10 +103,17 @@ Além disso, a **IA Generativa** pode apoiar na criação de conteúdos, planeja
 6. Gere um glossário básico com os principais termos financeiros do tema.  
 
 
-## 📌 Observação Final
+##  Observação Final
 
 Este material foi desenvolvido como exercício de aprendizagem ativa utilizando o NotebookLM como ferramenta de curadoria, organização do conhecimento e apoio com IA Generativa.
 
 
-📍 **Projeto acadêmico e socialmente orientado — IA aplicada à educação financeira e autonomia econômica.**
+ **Projeto acadêmico e socialmente orientado — IA aplicada à educação financeira e autonomia econômica.**
+
+## NotebookLM (Caderno Temático)
+
+Este MiniGuia foi desenvolvido a partir de um caderno no NotebookLM com fontes abertas e prompts estratégicos:
+
+https://notebooklm.google.com/notebook/f2c24544-6fac-4242-8c5b-3278f781fcaf
+
 
